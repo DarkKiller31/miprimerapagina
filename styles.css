@@ -50,7 +50,7 @@ ul{
   
   .formulario {
     display: flex;
-    justify-content: center;
+    justify-items: center;
     flex-direction: column;
     background-color: #f6f7f8;
     border: 1px solid #d6d9dc;
